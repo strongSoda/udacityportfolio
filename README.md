@@ -1,7 +1,7 @@
 # udacityportfolio
 
-__Version 1.0.0__
+__ Version 1.0.0 __
 
 # Author
 
-__Imran Khan__
+__ Imran Khan __
