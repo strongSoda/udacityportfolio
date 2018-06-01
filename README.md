@@ -2,6 +2,6 @@
 
 __Version 1.0.0__
 
-###Author####
+# Author
 
 __Imran Khan__
